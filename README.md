@@ -1,5 +1,9 @@
 ## For more information read the PDF report.pdf in the root of the GitHub Repository !
 
+Here is an example of my trained model in action !
+![val_batch2_pred](https://github.com/user-attachments/assets/c6c4bbb0-1a6b-44c3-ab2c-d5e685f297f5)
+
+
 ## Organization of this repo :
 
 - explore_dataset.ipynb is a Python Notebook to visualize the dataset and the bounding boxes, with some basic statistics.
